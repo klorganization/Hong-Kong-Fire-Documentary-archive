@@ -1,8 +1,8 @@
-site_name: Hong Kong Fire Documentary
+site_name: Hong-Kong-Fire-Documentary-archive
 site_url: https://klorganization.github.io/Hong-Kong-Fire-Documentary-archive/
 site_description: 整理香港大浦火災相關資訊，包括時間線、新聞、技術分析與社區支援 | Comprehensive archive of Tai Po fire incident with timeline, news, technical analysis, and community resources
 repo_url: https://github.com/klorganization/Hong-Kong-Fire-Documentary-archive/
-repo_name: Hong-Kong-Fire-Documentary
+repo_name: Hong-Kong-Fire-Documentary-archive
 edit_uri: edit/main/content/
 
 theme:
